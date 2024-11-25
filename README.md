@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working on ... preparing to graduate and start working at Microsoft
 - 🌱 I’m currently learning ... Microsoft Azure
-- 💬 Ask me about ... C++, Python, JavaScript, Qt, OpenGL, Node.js
-- ⚡ Enjoys ... coffee, mountain biking, running, reading, games, and learning
+- 💬 Ask me about ... C++, Python, JavaScript, Qt, OpenGL, Node.js, networking
+- ⚡ Enjoys ... coffee, mountain biking, running, reading, games, learning
 
 <!--
 **Michael-R-R/Michael-R-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
