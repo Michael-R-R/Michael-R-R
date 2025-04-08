@@ -4,8 +4,8 @@
 
 ### Here is a little about me...
 
-- 🔭 I’m currently working on ... preparing to start working at Microsoft
-- 🌱 I’m currently learning ... Microsoft Azure
+- 🔭 I’m currently working on ... FTE at Microsoft
+- 🌱 I’m currently learning ... Microsoft Azure Networking
 - 💬 Ask me about ... C++, Python, JavaScript, Qt, OpenGL, Node.js, networking
 - ⚡ Enjoys ... coffee, tea, mountain biking, running, reading, games, learning, cooking
 
